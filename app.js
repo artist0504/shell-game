@@ -2,9 +2,9 @@
 // import { getRandomItem } from './utils.js';
 
 /* State */
-
-/* Actions */
-function loadPage() {}
+let gameState =
+    /* Actions */
+    function loadPage() {};
 
 /* Components */
 
